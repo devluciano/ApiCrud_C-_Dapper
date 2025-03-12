@@ -1,0 +1,126 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\lucianofs\\source\\repos\\CrudDAPPERApi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CF5753DD-F287-4336-886E-000FE3F7761E}|CrudDAPPERApi\\CrudDAPPERApi.csproj|c:\\users\\lucianofs\\source\\repos\\cruddapperapi\\cruddapperapi\\controllers\\usuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF5753DD-F287-4336-886E-000FE3F7761E}|CrudDAPPERApi\\CrudDAPPERApi.csproj|solutionrelative:cruddapperapi\\controllers\\usuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF5753DD-F287-4336-886E-000FE3F7761E}|CrudDAPPERApi\\CrudDAPPERApi.csproj|c:\\users\\lucianofs\\source\\repos\\cruddapperapi\\cruddapperapi\\services\\usuarioservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF5753DD-F287-4336-886E-000FE3F7761E}|CrudDAPPERApi\\CrudDAPPERApi.csproj|solutionrelative:cruddapperapi\\services\\usuarioservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF5753DD-F287-4336-886E-000FE3F7761E}|CrudDAPPERApi\\CrudDAPPERApi.csproj|c:\\users\\lucianofs\\source\\repos\\cruddapperapi\\cruddapperapi\\services\\usuariointeface.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF5753DD-F287-4336-886E-000FE3F7761E}|CrudDAPPERApi\\CrudDAPPERApi.csproj|solutionrelative:cruddapperapi\\services\\usuariointeface.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF5753DD-F287-4336-886E-000FE3F7761E}|CrudDAPPERApi\\CrudDAPPERApi.csproj|c:\\users\\lucianofs\\source\\repos\\cruddapperapi\\cruddapperapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{CF5753DD-F287-4336-886E-000FE3F7761E}|CrudDAPPERApi\\CrudDAPPERApi.csproj|solutionrelative:cruddapperapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF5753DD-F287-4336-886E-000FE3F7761E}|CrudDAPPERApi\\CrudDAPPERApi.csproj|c:\\users\\lucianofs\\source\\repos\\cruddapperapi\\cruddapperapi\\dto\\usuarioeditardto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF5753DD-F287-4336-886E-000FE3F7761E}|CrudDAPPERApi\\CrudDAPPERApi.csproj|solutionrelative:cruddapperapi\\dto\\usuarioeditardto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF5753DD-F287-4336-886E-000FE3F7761E}|CrudDAPPERApi\\CrudDAPPERApi.csproj|c:\\users\\lucianofs\\source\\repos\\cruddapperapi\\cruddapperapi\\dto\\usuariocriardto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF5753DD-F287-4336-886E-000FE3F7761E}|CrudDAPPERApi\\CrudDAPPERApi.csproj|solutionrelative:cruddapperapi\\dto\\usuariocriardto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UsuarioEditarDto.cs",
+              "DocumentMoniker": "C:\\Users\\lucianofs\\source\\repos\\CrudDAPPERApi\\CrudDAPPERApi\\Dto\\UsuarioEditarDto.cs",
+              "RelativeDocumentMoniker": "CrudDAPPERApi\\Dto\\UsuarioEditarDto.cs",
+              "ToolTip": "C:\\Users\\lucianofs\\source\\repos\\CrudDAPPERApi\\CrudDAPPERApi\\Dto\\UsuarioEditarDto.cs",
+              "RelativeToolTip": "CrudDAPPERApi\\Dto\\UsuarioEditarDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-12T18:00:24.092Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UsuarioCriarDto.cs",
+              "DocumentMoniker": "C:\\Users\\lucianofs\\source\\repos\\CrudDAPPERApi\\CrudDAPPERApi\\Dto\\UsuarioCriarDto.cs",
+              "RelativeDocumentMoniker": "CrudDAPPERApi\\Dto\\UsuarioCriarDto.cs",
+              "ToolTip": "C:\\Users\\lucianofs\\source\\repos\\CrudDAPPERApi\\CrudDAPPERApi\\Dto\\UsuarioCriarDto.cs",
+              "RelativeToolTip": "CrudDAPPERApi\\Dto\\UsuarioCriarDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-12T14:42:16.958Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UsuarioService.cs",
+              "DocumentMoniker": "C:\\Users\\lucianofs\\source\\repos\\CrudDAPPERApi\\CrudDAPPERApi\\Services\\UsuarioService.cs",
+              "RelativeDocumentMoniker": "CrudDAPPERApi\\Services\\UsuarioService.cs",
+              "ToolTip": "C:\\Users\\lucianofs\\source\\repos\\CrudDAPPERApi\\CrudDAPPERApi\\Services\\UsuarioService.cs",
+              "RelativeToolTip": "CrudDAPPERApi\\Services\\UsuarioService.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAADwv4oAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-11T19:44:49.917Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\lucianofs\\source\\repos\\CrudDAPPERApi\\CrudDAPPERApi\\appsettings.json",
+              "RelativeDocumentMoniker": "CrudDAPPERApi\\appsettings.json",
+              "ToolTip": "C:\\Users\\lucianofs\\source\\repos\\CrudDAPPERApi\\CrudDAPPERApi\\appsettings.json",
+              "RelativeToolTip": "CrudDAPPERApi\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-11T17:44:28.128Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UsuarioController.cs",
+              "DocumentMoniker": "C:\\Users\\lucianofs\\source\\repos\\CrudDAPPERApi\\CrudDAPPERApi\\Controllers\\UsuarioController.cs",
+              "RelativeDocumentMoniker": "CrudDAPPERApi\\Controllers\\UsuarioController.cs",
+              "ToolTip": "C:\\Users\\lucianofs\\source\\repos\\CrudDAPPERApi\\CrudDAPPERApi\\Controllers\\UsuarioController.cs",
+              "RelativeToolTip": "CrudDAPPERApi\\Controllers\\UsuarioController.cs",
+              "ViewState": "AgIAACoAAAAAAAAAAAAAAD0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-11T17:15:18.788Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UsuarioInteface.cs",
+              "DocumentMoniker": "C:\\Users\\lucianofs\\source\\repos\\CrudDAPPERApi\\CrudDAPPERApi\\Services\\UsuarioInteface.cs",
+              "RelativeDocumentMoniker": "CrudDAPPERApi\\Services\\UsuarioInteface.cs",
+              "ToolTip": "C:\\Users\\lucianofs\\source\\repos\\CrudDAPPERApi\\CrudDAPPERApi\\Services\\UsuarioInteface.cs",
+              "RelativeToolTip": "CrudDAPPERApi\\Services\\UsuarioInteface.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABSAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-11T17:13:56.624Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
