@@ -41,3 +41,13 @@ Contribuições são bem-vindas! Sinta-se à vontade para abrir issues e pull re
 
 
 
+
+
+![image](https://github.com/user-attachments/assets/9e0381cc-0fca-4900-bca5-7de916027367)
+
+![image](https://github.com/user-attachments/assets/e55fd1f7-cf43-4cfd-94e2-783fd5f584f9)
+
+
+
+
+
