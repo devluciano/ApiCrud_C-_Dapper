@@ -26,17 +26,17 @@ Contribuições são bem-vindas! Sinta-se à vontade para abrir issues e pull re
 ## Como executar o projeto  
 1. Clone este repositório:  
    ```bash
-   git clone https://github.com/seu-usuario/seu-repositorio.git
-   
-   cd seu-repositorio
-   
-   Configure a string de conexão com o SQL Server no arquivo appsettings.json.
+      git clone https://github.com/seu-usuario/seu-repositorio.git
+      
+      cd seu-repositorio
+      
+      Configure a string de conexão com o SQL Server no arquivo appsettings.json.
 
 ## Configure a string de conexão com o SQL Server no arquivo appsettings.json.
 
 2. Execute a aplicação:
-  ```bash
-  dotnet run
+   ```bash
+     dotnet run
 
 
 
