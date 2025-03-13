@@ -13,7 +13,11 @@ O **Dapper** é um micro ORM que facilita a comunicação com o banco de dados, 
 - ✅ **Repository Pattern**  
 
 ## 🎯 Objetivo  
-O objetivo deste projeto é demonstrar a implementação de uma **Web API eficiente**, utilizando o **Dapper** para interagir com o banco de dados e adotando o **Repository Pattern** para estruturar o código de forma mais modular e reutilizável.  
+O objetivo deste projeto é demonstrar a implementação de uma **Web API eficiente**, utilizando o **Dapper** para interagir com o banco de dados e adotando o **Repository Pattern** para estruturar o código de forma mais modular e reutilizável. 
+
+
+![image](https://github.com/user-attachments/assets/b9feecf4-a4c0-4935-8a5f-ff05c931bcd6)
+
 
 ## Como executar o projeto 
 
