@@ -1,51 +1,47 @@
-# CRUD com Dapper | Web API com .NET 8 e SQL Server  
-## CRUD + Repository Pattern  
+# 🚀 CRUD com Dapper | Web API com .NET 8 e SQL Server  
 
-Este repositório apresenta o desenvolvimento de uma **Web API** com um **CRUD completo** utilizando **C#**, **Dapper** e **SQL Server**.  
+## 📌 Sobre o projeto  
+Este repositório apresenta uma **Web API** desenvolvida com **.NET 8**, utilizando **C#**, **Dapper** e **SQL Server** para um **CRUD completo**, seguindo o **Repository Pattern** para melhor organização do código.  
 
-O **Dapper** é um **micro ORM** que facilita a comunicação e interação com o banco de dados, oferecendo alto desempenho e simplicidade na manipulação de consultas SQL.  
+O **Dapper** é um micro ORM que facilita a comunicação com o banco de dados, proporcionando **alto desempenho** e **simplicidade** na manipulação de consultas SQL.  
 
-## Tecnologias utilizadas  
-- **.NET 8**  
-- **C#**  
-- **Dapper**  
-- **SQL Server**  
-- **Repository Pattern**  
+## 🛠 Tecnologias utilizadas  
+- ✅ **.NET 8**  
+- ✅ **C#**  
+- ✅ **Dapper**  
+- ✅ **SQL Server**  
+- ✅ **Repository Pattern**  
 
-## Objetivo  
-O objetivo deste projeto é demonstrar a implementação de uma **Web API** eficiente, utilizando **Dapper** para realizar todas as requisições e operações de banco de dados, 
-seguindo o padrão **Repository Pattern** para organização do código.  
+## 🎯 Objetivo  
+O objetivo deste projeto é demonstrar a implementação de uma **Web API eficiente**, utilizando o **Dapper** para interagir com o banco de dados e adotando o **Repository Pattern** para estruturar o código de forma mais modular e reutilizável.  
 
-## Contribuição:
-Contribuições são bem-vindas! Sinta-se à vontade para abrir issues e pull requests.
+## Como executar o projeto 
 
-📌 Autor: Luciano F. Silva |
+1️⃣ **Clone este repositório:** 
+
+- git clone https://github.com/seu-usuario/seu-repositorio.git
+cd seu-repositorio
+
+2️⃣ **Configure a string de conexão no arquivo appsettings.json.**
+
+3️⃣ **Execute a aplicação:**
+
+- dotnet run
+  
+🤝 Contribuição
+
+Contribuições são bem-vindas!
+Sinta-se à vontade para abrir issues e pull requests.
+
+👤 Autor: Luciano F. Silva
+
 🌐 LinkedIn: https://www.linkedin.com/in/luciano-silva-040902258/
+
 📧 Email: Lucianoferreira4628@gmail.com
 
-## Como executar o projeto  
-1. Clone este repositório:  
-   ```bash
-      git clone https://github.com/seu-usuario/seu-repositorio.git
-      
-      cd seu-repositorio
-      
-      Configure a string de conexão com o SQL Server no arquivo appsettings.json.
+Se este projeto for útil para você, não se esqueça de deixar uma ⭐! 🚀
 
-## Configure a string de conexão com o SQL Server no arquivo appsettings.json.
-
-2. Execute a aplicação:
-   ```bash
-     dotnet run
-
-
-
-
-
-
-![image](https://github.com/user-attachments/assets/9e0381cc-0fca-4900-bca5-7de916027367)
-
-![image](https://github.com/user-attachments/assets/e55fd1f7-cf43-4cfd-94e2-783fd5f584f9)
+Agora é só copiar e colar no seu repositório! 🚀😃
 
 
 
