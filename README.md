@@ -24,13 +24,15 @@ O objetivo deste projeto é demonstrar a implementação de uma **Web API eficie
 1️⃣ **Clone este repositório:** 
 
 - git clone https://github.com/seu-usuario/seu-repositorio.git
-cd seu-repositorio
+  
+- cd seu-repositorio
 
 2️⃣ **Configure a string de conexão no arquivo appsettings.json.**
 
 3️⃣ **Execute a aplicação:**
 
 - dotnet run
+  
   
 🤝 Contribuição
 
