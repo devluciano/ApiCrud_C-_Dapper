@@ -34,7 +34,7 @@ O objetivo deste projeto é demonstrar a implementação de uma **Web API eficie
 - dotnet run
   
   
-🤝 Contribuição
+🤝 Contribuição:
 
 Contribuições são bem-vindas!
 Sinta-se à vontade para abrir issues e pull requests.
